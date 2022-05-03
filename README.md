@@ -27,6 +27,9 @@ In this project, our goal is handling a customer churn problem by building predi
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [Seaborn](https://seaborn.pydata.org/)
+- [Pyspark's SQL Module](https://spark.apache.org/docs/2.4.0/api/python/pyspark.sql.html)
+- [Pyspark's Machine Learning package](https://spark.apache.org/docs/2.3.1/api/python/pyspark.ml.html)
+
 
 
 ## Files in the Repository
@@ -47,7 +50,17 @@ The project summary can be found on Medium
 
 https://github.com/othneildrew/Best-README-Template/blob/master/README.md
 <br/>
+https://sparkbyexamples.com/pyspark/pyspark-add-new-column-to-dataframe
+</br>
+https://sparkbyexamples.com/pyspark/pyspark-dataframe-groupby-and-sort-by-descending-order
+</br>
 https://sparkbyexamples.com/pyspark/
+</br>
+https://sparkbyexamples.com/pyspark/
+</br>
+https://sparkbyexamples.com/pyspark/
+</br>
+
 
 
 
