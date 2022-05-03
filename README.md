@@ -22,13 +22,15 @@ In this project, our goal is handling a customer churn problem by building predi
 ## Requirements
  - Access to a Spark Cluster to run this project
  - The mini-dataset file `mini_sparkify_event_data.json`, a subset of the original data
+ - [Pyspark's SQL Module](https://spark.apache.org/docs/2.4.0/api/python/pyspark.sql.html)
+- [Pyspark's Machine Learning package](https://spark.apache.org/docs/2.3.1/api/python/pyspark.ml.html)
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [Seaborn](https://seaborn.pydata.org/)
-- [Pyspark's SQL Module](https://spark.apache.org/docs/2.4.0/api/python/pyspark.sql.html)
-- [Pyspark's Machine Learning package](https://spark.apache.org/docs/2.3.1/api/python/pyspark.ml.html)
+- [Python's Regular Expressions module](https://docs.python.org/3/library/re.html)
+- [Python's datetime module](https://docs.python.org/3/library/datetime.html)
 
 
 
@@ -38,12 +40,12 @@ In this project, our goal is handling a customer churn problem by building predi
 `Toscano_Paulo_Sparkify.ipynb`: The HTML version of the Jupyter notebook
 
 ***Obs:***
-The dataset used for this project is available only at Udacity
+The dataset used for this project is available only at [Udacity](www.udacity.com)
 
 
 ## Results
 
-The project summary can be found on Medium
+The project summary can be found on [Medium](https://medium.com/)
 
 
 ## Acknowledgements
@@ -54,12 +56,20 @@ https://sparkbyexamples.com/pyspark/pyspark-add-new-column-to-dataframe
 </br>
 https://sparkbyexamples.com/pyspark/pyspark-dataframe-groupby-and-sort-by-descending-order
 </br>
-https://sparkbyexamples.com/pyspark/
-</br>
-https://sparkbyexamples.com/pyspark/
-</br>
-https://sparkbyexamples.com/pyspark/
-</br>
+https://sparkbyexamples.com/pyspark/pyspark-join-explained-with-examples/
+
+https://sparkbyexamples.com/pyspark/pyspark-concatenate-columns/
+ 
+https://sparkbyexamples.com/pyspark/pyspark-sql-date-and-timestamp-functions/
+ 
+https://sparkbyexamples.com/pyspark/pyspark-udf-user-defined-function/
+
+https://www.geeksforgeeks.org/merge-two-dataframes-in-pyspark/
+
+https://www.geeksforgeeks.org/concatenate-two-pyspark-dataframes/
+ 
+https://www.datasciencemadesimple.com/join-in-pyspark-merge-inner-outer-right-left-join-in-pyspark/
+
 
 
 
