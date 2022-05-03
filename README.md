@@ -22,13 +22,12 @@ In this project, our goal is handling a customer churn problem by building predi
 ## Requirements
  - Access to a Spark Cluster to run this project or having java installed on your computer's system PATH , or the JAVA_HOME environment variable pointing to a Java installation. Spark runs on Java 8/11, Scala 2.12/2.13, Python 3.6+ and R 3.5+.
 
- - The mini-dataset file `mini_sparkify_event_data.json`, a subset of the original data
- - [Pyspark's SQL Module](https://spark.apache.org/docs/2.4.0/api/python/pyspark.sql.html)
+- The mini-dataset file `mini_sparkify_event_data.json`, a subset of the original data
+- [Pyspark's SQL Module](https://spark.apache.org/docs/2.4.0/api/python/pyspark.sql.html)
 - [Pyspark's Machine Learning package](https://spark.apache.org/docs/2.3.1/api/python/pyspark.ml.html)
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
-- [matplotlib](http://matplotlib.org/)
-- [scikit-learn](http://scikit-learn.org/stable/)
+- [Matplotlib](http://matplotlib.org/)
 - [Seaborn](https://seaborn.pydata.org/)
 - [Python's Regular Expressions module](https://docs.python.org/3/library/re.html)
 - [Python's datetime module](https://docs.python.org/3/library/datetime.html)
