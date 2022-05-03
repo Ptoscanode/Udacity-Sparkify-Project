@@ -6,9 +6,13 @@ This project consists of appling Machine Learning models in Pyspark, to predict 
 We will be working with a small dataset (128MB), containing information about customers and their activity in the platform. This project is divided in 5 parts:
 
 1 - Load and Clean Dataset
+</br>
 2 - Exploratory Data Analysis
+</br>
 3 - Feature Engineering
+</br>
 4 - Modeling
+</br>
 5 - Conclusions
 
 The reason why we will be working with a small fraction of the data is because this model is still being tested. Therefore, using a small dataset is way of, not only avoiding spending too long training the model, but also having a sense of the chosen model's accuracy before applying it to production data.
