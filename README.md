@@ -51,11 +51,11 @@ The project summary can be found on [Medium](https://medium.com/)
 ## Acknowledgements
 
 https://github.com/othneildrew/Best-README-Template/blob/master/README.md
-<br/>
+
 https://sparkbyexamples.com/pyspark/pyspark-add-new-column-to-dataframe
-</br>
+
 https://sparkbyexamples.com/pyspark/pyspark-dataframe-groupby-and-sort-by-descending-order
-</br>
+
 https://sparkbyexamples.com/pyspark/pyspark-join-explained-with-examples/
 
 https://sparkbyexamples.com/pyspark/pyspark-concatenate-columns/
@@ -69,9 +69,3 @@ https://www.geeksforgeeks.org/merge-two-dataframes-in-pyspark/
 https://www.geeksforgeeks.org/concatenate-two-pyspark-dataframes/
  
 https://www.datasciencemadesimple.com/join-in-pyspark-merge-inner-outer-right-left-join-in-pyspark/
-
-
-
-
-
-
