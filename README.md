@@ -21,6 +21,7 @@ In this project, our goal is handling a customer churn problem by building predi
 
 ## Requirements
  - Access to a Spark Cluster to run this project
+ - The mini-dataset file `mini_sparkify_event_data.json
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
@@ -29,7 +30,9 @@ In this project, our goal is handling a customer churn problem by building predi
 
 
 ## Files in the Repository
-`finding_donors.ipynb`: Jupyter notebook containing the analysis of the project
+`Toscano_Paulo_Sparkify.ipynb`: Jupyter notebook containing the analysis of the project
+
+`Toscano_Paulo_Sparkify.ipynb`: The HTML version of the Jupyter notebook
 
 
 ## Results
