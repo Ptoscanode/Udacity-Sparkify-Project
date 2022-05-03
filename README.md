@@ -20,7 +20,8 @@ In this project, our goal is handling a customer churn problem by building predi
 
 
 ## Requirements
- - Access to a Spark Cluster to run this project
+ - Access to a Spark Cluster to run this project or all you need or having java installed on your system PATH , or the JAVA_HOME environment variable pointing to a Java installation. Spark runs on Java 8/11, Scala 2.12/2.13, Python 3.6+ and R 3.5+.
+
  - The mini-dataset file `mini_sparkify_event_data.json`, a subset of the original data
  - [Pyspark's SQL Module](https://spark.apache.org/docs/2.4.0/api/python/pyspark.sql.html)
 - [Pyspark's Machine Learning package](https://spark.apache.org/docs/2.3.1/api/python/pyspark.ml.html)
