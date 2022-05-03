@@ -21,7 +21,7 @@ In this project, our goal is handling a customer churn problem by building predi
 
 ## Requirements
  - Access to a Spark Cluster to run this project
- - The mini-dataset file `mini_sparkify_event_data.json
+ - The mini-dataset file `mini_sparkify_event_data.json`, a subset of the original data
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
@@ -34,6 +34,9 @@ In this project, our goal is handling a customer churn problem by building predi
 
 `Toscano_Paulo_Sparkify.ipynb`: The HTML version of the Jupyter notebook
 
+***Obs:***
+The dataset used for this project is available only at Udacity
+
 
 ## Results
 
@@ -42,20 +45,10 @@ The project summary can be found on Medium
 
 ## Acknowledgements
 
+https://github.com/othneildrew/Best-README-Template/blob/master/README.md
+<br/>
 https://sparkbyexamples.com/pyspark/
 
-https://pandas.pydata.org
-<br/>
-https://numpy.org
-<br/>
-https://scikit-learn.org
-<br/>
-https://www.sqlalchemy.org/
-<br/>
-https://github.com/othneildrew/Best-README-Template/blob/master/README.md
-</br>
-https://flask.palletsprojects.com/en/2.0.x/
-</br>
-https://plotly.com/
+
 
 
