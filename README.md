@@ -13,8 +13,8 @@ We will be working with a small dataset (128MB), containing information about cu
 
 The reason why we will be working with a small fraction of the data is because this model is still being tested. Therefore, using a small dataset is way of, not only avoiding spending too long training the model, but also having a sense of the chosen model's accuracy before applying it to production data.
 
-## Requirements
 
+## Requirements
  - Access to a Spark Cluster to run this project or having java installed on your computer's system PATH , or the JAVA_HOME environment variable pointing to a Java installation. Spark runs on Java 8/11, Scala 2.12/2.13, Python 3.6+ and R 3.5+.
 
 - The mini-dataset file `mini_sparkify_event_data.json`, a subset of the original data
@@ -38,12 +38,10 @@ The mini-dataset file `mini_sparkify_event_data.json`, used for this project is 
 
 
 ## Results
-
 The project summary can be found on [Medium](https://medium.com/)
 
 
 ## Acknowledgements
-
 https://github.com/othneildrew/Best-README-Template/blob/master/README.md
 
 https://sparkbyexamples.com/pyspark/pyspark-add-new-column-to-dataframe
