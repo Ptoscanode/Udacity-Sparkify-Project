@@ -3,7 +3,7 @@
 ## Project Motivation
 This project consists of appling Machine Learning models in Pyspark, to predict customer churn in a virtual company named "Sparkify".
 
-This company offers digital music service through streaming, similar to Spotify and Deezer. Sparkify has two account options: Free and Premium. The free account has advertisements between songs, whereas the premium account has no advertisements, costing a monthly fee. Customers can upgrade, downgrade or cancel the service at any time. 
+Sparkify offers digital music service through streaming, similar to Spotify and Deezer. Sparkify has two account options: Free and Premium. The free account has advertisements between songs, whereas the premium account has no advertisements, costing a monthly fee. Customers can upgrade, downgrade or cancel the service at any time. 
 
 We will be working with a small dataset (128MB), containing information about customers and their activity in the platform.
 
