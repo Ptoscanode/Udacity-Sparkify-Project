@@ -5,7 +5,11 @@ This project consists of appling Machine Learning models in Pyspark, to predict 
 
 This company offers digital music service through streaming, similar to Spotify and Deezer. Sparkify has two account options: Free and Premium. The free account has advertisements between songs, whereas the premium account has no advertisements, costing a monthly fee. Customers can upgrade, downgrade or cancel the service at any time. 
 
-We will be working with a small dataset (128MB), containing information about customers and their activity in the platform. This project is divided in 5 parts:
+We will be working with a small dataset (128MB), containing information about customers and their activity in the platform.
+
+The reason why we will be working with a small fraction of the data is because this model is still being tested. Therefore, using a small dataset is way of, not only avoiding spending too long training the model, but also having a sense of the chosen model's accuracy before applying it to production data.
+
+This project is divided in 5 parts:
 
 1 - Load and Clean Dataset
 </br>
@@ -16,8 +20,6 @@ We will be working with a small dataset (128MB), containing information about cu
 4 - Modeling
 </br>
 5 - Conclusions
-
-The reason why we will be working with a small fraction of the data is because this model is still being tested. Therefore, using a small dataset is way of, not only avoiding spending too long training the model, but also having a sense of the chosen model's accuracy before applying it to production data.
 
 
 ## Requirements
