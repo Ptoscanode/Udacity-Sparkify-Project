@@ -35,7 +35,7 @@ The reason why we will be working with a small fraction of the data is because t
 ## Files in the Repository
 `Toscano_Paulo_Sparkify.ipynb`: Jupyter notebook containing the analysis of the project
 
-`Toscano_Paulo_Sparkify.ipynb`: The HTML version of the Jupyter notebook
+`Toscano_Paulo_Sparkify.html`: The HTML version of the Jupyter notebook
 
 ***Obs:***
 The mini-dataset file `mini_sparkify_event_data.json`, used for this project is available only at [Udacity](www.udacity.com)
