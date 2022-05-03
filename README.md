@@ -33,14 +33,13 @@ In this project, our goal is handling a customer churn problem by building predi
 - [Python's datetime module](https://docs.python.org/3/library/datetime.html)
 
 
-
 ## Files in the Repository
 `Toscano_Paulo_Sparkify.ipynb`: Jupyter notebook containing the analysis of the project
 
 `Toscano_Paulo_Sparkify.ipynb`: The HTML version of the Jupyter notebook
 
 ***Obs:***
-The dataset used for this project is available only at [Udacity](www.udacity.com)
+The mini-dataset file `mini_sparkify_event_data.json`, used for this project is available only at [Udacity](www.udacity.com)
 
 
 ## Results
