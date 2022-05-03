@@ -2,24 +2,20 @@
 
 ## Project Motivation
 
+This project consists of appling Machine Learning models in Pyspark, to predict customer churn in a virtual company named "Sparkify". This company offers digital music service through streaming, similar to Spotify and Deezer. Sparkify has two account options: Free and Premium. The free account has advertisements between songs, whereas the premium account has no advertisements, costing a monthly fee. Customers can upgrade, downlgrade or cancel the service at any time. 
 
+We will be working with a small dataset (128MB), containing information about customers and their activity in the platform. This project is divided in 5 parts:
 
-This is the final project of the datascience nanodegree (DSND). We have an example of a virtual company called 'Sparkify' who offers paid and free listening service, the customers can switch between either service, and they can cancel their subscription at any time. The given customers dataset is huge (12GB), thus the standard tools for analysis and machine learning will not be useful here as it will not fit in the computer's memory (even the data can fit in the memory of a 32GB computer, the analysis, and computations require way more than that amount, and the analysis will crash the system). The safe way to perform such analysis is to do it using Big Data tools like Apache Spark which is one of the fastest big data tools.
+1 - Load and Clean Dataset
+2 - Exploratory Data Analysis
+3 - Feature Engineering
+4 - Modeling
+5 - Conclusions
 
-Sparkify is a digital music service similar to Netease Cloud Music or QQ Music. Many of the users stream their favorite songs in Sparkify service everyday, either using free tier that places advertisements in between the songs, or using the premium subscription model where they stream music as free, but pay a monthly flat rate. User can upgrade, downgrade or cancel their service at anytime.
-
-For this tutorial, we worked with only a 128MB slice of the original dataset.
-
-This project consists of analyzing disaster data from Figure Eight to build a model for an API that classifies disaster messages.
-
-We used a data set containing real messages that were sent during disaster events. Then, a machine learning pipeline was created to categorize these events so that we can send the messages to an appropriate disaster relief agency.
-
-This project also includes a web app where an emergency worker can input a new message and get classification results in several categories. The web app also displays visualizations of the data
-
-In this project, our goal is handling a customer churn problem by building predictive model on a small dataset (~125MB) of customer's activities on the service and attempt to predict customers who will churn based on their past behaviours.
-
+The reason why we will be working with a small fraction of the data is because this model is still being tested. Therefore, using a small dataset is way of, not only avoiding spending too long training the model, but also having a sense of the chosen model's accuracy before applying it to production data.
 
 ## Requirements
+
  - Access to a Spark Cluster to run this project or having java installed on your computer's system PATH , or the JAVA_HOME environment variable pointing to a Java installation. Spark runs on Java 8/11, Scala 2.12/2.13, Python 3.6+ and R 3.5+.
 
 - The mini-dataset file `mini_sparkify_event_data.json`, a subset of the original data
