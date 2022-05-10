@@ -48,7 +48,7 @@ The mini-dataset file `mini_sparkify_event_data.json`, used for this project is 
 
 
 ## Results
-The project summary can be found on [Medium](https://medium.com/)
+The project summary can be found on [Medium](https://paulo-toscano.medium.com/please-dont-go-1af39f0f7376)
 
 
 ## Acknowledgements
